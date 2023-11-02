@@ -23,5 +23,3 @@ Soluciones a [codember](https://codember.dev) hechos en JavaScript con NodeJS.
 #### 2) Ya revisaste tus correos
 
 #### 3) La fecha especial
-
-</details>
